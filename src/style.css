@@ -1,0 +1,88 @@
+h1 {
+  color: black;
+  margin: 0px;
+  text-align: center;
+  padding-top: 48px;
+  font-weight: bold;
+  font-family: "Amatic SC", cursive;
+}
+
+h1 i {
+  color: #f08db1;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-weight: bold;
+}
+
+.temprature {
+  text-align: center;
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-size: 24 px;
+  font-weight: bold;
+}
+
+h4 {
+  text-align: center;
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-size: 32px;
+  font-weight: 600;
+}
+.units {
+  text-align: center;
+  font-family: "Amatic SC", cursive;
+  color: #ff3366;
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.temperature {
+  text-align: center;
+  font-family: "Amatic SC", cursive;
+  color: #ff3366;
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.container {
+  width: 50%;
+  opacity: 1;
+  padding: 30px;
+  margin: 30px auto;
+  border-radius: 25px;
+  border-style: double;
+  border-width: thick;
+  color: #f08db1;
+}
+
+.searchcity {
+  position: relative;
+  margin: 0;
+  text-align: center;
+  top: 0;
+  padding-top: 50px;
+}
+
+img {
+  width: 600px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 30px;
+  padding: 20px;
+}
+ul {
+  list-style: none;
+  padding: 0;
+  text-align: left;
+  color: black;
+}
+
+li {
+  display: inline;
+  margin: 0 15px;
+}
