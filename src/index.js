@@ -52,7 +52,7 @@ function search(city) {
   let mainUrl = "https://api.openweathermap.org/data/2.5/weather?";
   let apiUrl = `${mainUrl}q=${cityText}&appid=${apiKey}&units=${units}`;
 
-  axios.get(apiUrl).then(cityInputWeather);
+  axios.get(apiUrl).then(displayTemperature);
 }
 
 function handleSubmit(event) {
