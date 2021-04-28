@@ -74,10 +74,3 @@ li:first-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
-img {
-  width: 400px;
-  display: block;
-  margin: 0 auto;
-  border-radius: 30px;
-  padding-left: 10px;
-}
