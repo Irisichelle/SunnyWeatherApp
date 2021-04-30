@@ -29,6 +29,7 @@ li {
 
 li:first-letter {
   text-transform: capitalize;
+  text-align: right;
 }
 
 .weather-app-wrapper {
