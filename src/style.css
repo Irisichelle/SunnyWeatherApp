@@ -47,8 +47,8 @@ li:first-letter {
   );
   background: linear-gradient(
     to right,
-    rgba(168, 237, 234, 0.5),
-    rgba(254, 214, 227, 0.5)
+    rgba(236, 97, 167, 0.5),
+    rgba(247, 136, 171, 0.5)
   );
 }
 
@@ -100,10 +100,10 @@ li:first-letter {
 }
 #myButton {
   box-shadow: inset 0px 1px 0px 0px #efdcfb;
-  background: linear-gradient(to bottom, #dfbdfa 5%, #bc80ea 100%);
-  background-color: #dfbdfa;
+  background: linear-gradient(to bottom, #ff3366 5%, #bc80ea 100%);
+  background-color: #ff3366;
   border-radius: 10px;
-  border: 1px solid #c584f3;
+  border: 1px solid #ff3366;
   display: inline-block;
   cursor: pointer;
   color: #ffffff;
