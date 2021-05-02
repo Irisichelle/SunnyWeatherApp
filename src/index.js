@@ -92,7 +92,6 @@ function displayTemperature(response) {
   getForecast(response.data.coord);
 }
 
-
 function search(city) {
  let apiKey = "e54075cb944645dfdc31a4a40ed15bfc";
   let units = "metric";
